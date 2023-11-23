@@ -4,5 +4,5 @@
 /**
  * 
  */
-module SaludoED {
+module Factorial {
 }
