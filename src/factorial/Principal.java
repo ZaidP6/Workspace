@@ -12,9 +12,11 @@ public class Principal {
 	public static int factorial(int n) {
 		int resultado = 1;
 		for (int i = n; i>=1 ; i--) {
-			resultado = resultado *1;
+			resultado = resultado *n;
 		}
 		return resultado;
 	}
+	
+	
 
 }
